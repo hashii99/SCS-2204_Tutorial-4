@@ -2,7 +2,7 @@ import scala.io.StdIn.readInt
 
 object Main {
   def main(args: Array[String]): Unit = {
-//    println("Hello world!")
+
     println("Enter the amount : ")
     val num = readInt()
 
